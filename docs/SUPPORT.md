@@ -38,9 +38,9 @@ We try to respond within **2–3 business days**.
 
 ## Privacy
 
-For how we handle data, see our [Privacy Policy](README.md).
+For how we handle data, see our [Privacy Policy](PRIVACY_POLICY.md).
 
-For the hosted version, link to your privacy page, e.g. `https://yourusername.github.io/your-repo/privacy.html`.
+
 
 ## App information
 
